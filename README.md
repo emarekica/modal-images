@@ -3,7 +3,6 @@
 
 This is an example made following the [tutorial by Dev Ed](https://www.youtube.com/watch?v=4SQXOA8Z-lo).
 
-<br>
 
 ---
 
@@ -13,8 +12,6 @@ This is an example made following the [tutorial by Dev Ed](https://www.youtube.c
 - CSS
 - "vanilla" JavaScript
 
-<br>
-
 ---
 
 ## Features
@@ -23,8 +20,6 @@ This is an example made following the [tutorial by Dev Ed](https://www.youtube.c
 - images animate when hovering with mouse over them
 - when clicking on an image, modal opens with dyinamical change of the image and its caption
 - when clicking on the background, the modal is closed and the main page can be seen
-
-<br>
 
 ---
 
@@ -44,7 +39,6 @@ This is an example made following the [tutorial by Dev Ed](https://www.youtube.c
 
 [GitHub Pages](https://emarekica.github.io/modal-images/)
 
-<br>
 
 ---
 
