@@ -1,14 +1,11 @@
 # MODAL WINDOW example
 
-<br>
 
 This is an example made following the [tutorial by Dev Ed](https://www.youtube.com/watch?v=4SQXOA8Z-lo).
 
 <br>
 
 ---
-
-<br>
 
 ## Technologies
 
@@ -20,8 +17,6 @@ This is an example made following the [tutorial by Dev Ed](https://www.youtube.c
 
 ---
 
-<br>
-
 ## Features
 
 - images scale with window size
@@ -32,8 +27,6 @@ This is an example made following the [tutorial by Dev Ed](https://www.youtube.c
 <br>
 
 ---
-
-<br>
 
 ## Visual
 
@@ -47,11 +40,9 @@ This is an example made following the [tutorial by Dev Ed](https://www.youtube.c
 
 ---
 
-<br>
-
 ## Try it
 
-[GitHub Pages]()
+[GitHub Pages](https://emarekica.github.io/modal-images/)
 
 <br>
 
